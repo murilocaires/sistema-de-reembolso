@@ -174,4 +174,5 @@ Este projeto está disponível para uso e aprendizagem. Adicione a licença dese
 Se quiser, eu adapto este README para uma página do GitHub (com badges) ou crio um `README` em inglês pronto para publicar. Quer que eu gere a versão em inglês também? 
 #   s i s t e m a - d e - r e e m b o l s o 
  
+ #   s i s t e m a - d e - r e e m b o l s o  
  
